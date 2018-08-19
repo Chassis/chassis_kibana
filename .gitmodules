@@ -1,0 +1,6 @@
+[submodule "modules/kibana"]
+	path = modules/kibana
+	url = https://github.com/elastic/puppet-kibana.git
+[submodule "modules/elastic_stack"]
+	path = modules/elastic_stack
+	url = https://github.com/elastic/puppet-elastic-stack.git
