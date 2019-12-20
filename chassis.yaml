@@ -8,3 +8,6 @@ version: 2
 
 dependencies:
   - chassis_elasticsearch
+
+plugins:
+  - elasticpress
